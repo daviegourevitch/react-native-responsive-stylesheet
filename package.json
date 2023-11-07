@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RangerMauve/react-native-responsive-stylesheet.git"
+    "url": "git+https://github.com/daviegourevitch/react-native-responsive-stylesheet.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "rangermauve",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RangerMauve/react-native-responsive-stylesheet/issues"
+    "url": "https://github.com/daviegourevitch/react-native-responsive-stylesheet/issues"
   },
-  "homepage": "https://github.com/RangerMauve/react-native-responsive-stylesheet#readme",
+  "homepage": "https://github.com/daviegourevitch/react-native-responsive-stylesheet#readme",
   "peerDependencies": {
     "react-native": "*"
   },
